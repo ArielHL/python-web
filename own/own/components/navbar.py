@@ -5,7 +5,7 @@ from own.styles import styles
 def navbar() -> rx.Component:
     return rx.hstack(
             rx.text(
-                "mouredev",
+                "My Self",
                 font_size=styles.Size.MEDIUM.value,
                 font_weight='bold'
                 ),

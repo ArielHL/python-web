@@ -66,7 +66,7 @@ export default function Component() {
   <Box>
   <HStack alignItems={`center`} sx={{"position": "sticky", "bg": "lightgray", "width": "100%", "paddingX": "0.8em", "paddingY": "0.5em", "zIndex": "100", "top": "0px", "display": "flex"}}>
   <Text sx={{"fontSize": "1em", "fontWeight": "bold"}}>
-  {`mouredev`}
+  {`My Self`}
 </Text>
   <Spacer/>
   <Input placeholder={`Search...`} sx={{"width": "300px", "padding": "0.5em", "borderRadius": "1em", "backgroundColor": "white", "border": "1px solid ligtblue"}} type={`text`}/>
